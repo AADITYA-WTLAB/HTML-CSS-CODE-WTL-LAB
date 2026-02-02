@@ -115,7 +115,7 @@
   </main>
 
   <footer>
-    © 2026 Your Name
+    © 2026 MANE ADITYA
   </footer>
 </body>
 </html>
